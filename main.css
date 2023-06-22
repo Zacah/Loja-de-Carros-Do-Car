@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 html{
@@ -43,6 +43,7 @@ header h1{
 .container h2{
     background-color: rgb(215, 146, 18);
     color: #fff;
+    font-family: 'Abril Fatface';
     border-radius: 3px;
     align-items: center;
 } 
